@@ -1,0 +1,17 @@
+# لتثبيت pandas للتعامل مع البيانات والتصدير لـ Excel
+pip install pandas openpyxl
+
+# لتثبيت مكتبة التعامل مع ملفات Word
+pip install python-docx
+
+# لتثبيت مكتبة إنشاء ملفات PDF
+pip install reportlab
+
+# مكتبة بديلة لإنشاء PDF
+pip install fpdf
+
+# مكتبة التعامل مع الصور
+pip install Pillow
+
+# أو يمكنك تثبيت جميع المكتبات مرة واحدة:
+pip install pandas openpyxl python-docx reportlab fpdf Pillow
