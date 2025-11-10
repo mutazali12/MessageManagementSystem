@@ -1,6 +1,6 @@
 # نظام إدارة المراسلات الإدارية للشركات والمؤسسات الحكومية
 
-![Banner](https://via.placeholder.com/1200x300?text=Administrative+Correspondence+Management+System)  
+![Banner](images/banner.png)
 *نظام متكامل لإدارة سجلات المراسلات الواردة والصادرة، مكتوب بلغة Python مع واجهة رسومية باستخدام Tkinter.*
 
 ---
@@ -73,3 +73,4 @@ pip install -r requirements.txt
   </a>
 </div>
 </footer>
+
